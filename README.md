@@ -1,7 +1,3 @@
-## Hi there 👋 
-## My name is Ilham
-## I'm a person who loves to try new stuff
-
 ![Me](./Chihiro.jpg)
 
 <!--
