@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there 👋 
+## My name is Ilham
+## I'm a person who loves to try new stuff
+
+![Me](./Chihiro.jpg)
 
 <!--
 **Ilham3040/Ilham3040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
