@@ -2,7 +2,7 @@
 
 **Just some random dude experimenting around**
 
-I making stuff from bottom up in C
+I love making stuff from bottom up in C
 
 <!--
 **Ilham3040/Ilham3040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
