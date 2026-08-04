@@ -1,5 +1,7 @@
 ![Me](./Chihiro.jpg)
 
+**Just some random dude experimenting around**
+
 <!--
 **Ilham3040/Ilham3040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
